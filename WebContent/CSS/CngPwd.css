@@ -1,0 +1,33 @@
+body
+{
+	font-family: Century Gothic, Arial, Times New Roman;
+	background-color: white;
+	text-align: center; 
+	width: 30%;
+	margin: auto;
+}
+#body
+{
+	background-color: #1a116b;
+	color: white;
+	padding: 15px;
+	margin: 55% auto auto auto;
+	border-radius: 25px;
+	box-shadow: 10px 10px 5px grey;
+}
+
+#pass1, #pass2
+{
+	border-radius:25px;
+}
+
+table
+{
+	padding: 10px;
+	margin: auto;
+}
+
+#cp
+{
+	margin: 10% 55% auto 55%;
+}

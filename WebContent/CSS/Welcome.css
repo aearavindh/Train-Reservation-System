@@ -1,0 +1,48 @@
+body
+{
+	font-family: Century Gothic, Arial, Times New Roman;
+	background-color: white;
+}
+header
+{
+	text-align: center;
+	text-shadow: 5px 5px 5px grey;
+	color: #1a116b;
+}
+section
+{
+	text-align: center;
+}
+footer
+{
+	text-align: center;
+}
+
+.button {
+  background-color: #1a116b;
+ 	background-image: linear-gradient(#f0f0f0, #C0C0C0); */
+  /*text-shadow: 2px 2px 4px white;*/
+  border: none;
+  color: #1a116b;
+  padding: 5px 12px 5px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  font-family: Arial, Times New Roman;
+  margin: 2px;
+  cursor: pointer;
+  box-shadow: 5px 5px 2px grey;
+}
+
+.button1 {border-radius: 20px;}
+.button1:hover {
+  background-color: #1a116b;
+  color: Red;
+}
+
+.button2 {border-radius: 20px;}
+.button2:hover {
+  background-color: #1a116b;
+  color: Red;
+}

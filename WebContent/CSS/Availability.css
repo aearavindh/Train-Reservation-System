@@ -1,0 +1,36 @@
+body
+{
+font-family: Century Gothic, Arial, Times New Roman;
+}
+th{
+background-color:#1a116b;
+text-align:center;
+font-size:18px;
+color: white;
+}
+td{
+background-color:#FFFFFF;
+text-align:center;
+font-size:18px;
+}
+#checkTrain{
+background-color:green;
+border-radius:10px;
+border-style:inset;
+font-size:18px;
+}
+
+/*tableHead
+{
+	background-color: #1a116b;
+	
+	box-shadow: 10px 10px 5px grey;
+	font-size: 14px;
+	border-width: 0px;
+	border-style: ridge;
+	border-color: #C0C0C0;
+	border-radius: 0px 0px  25px 25px;
+	
+	text-align: center;
+	padding: 5px;
+}*/

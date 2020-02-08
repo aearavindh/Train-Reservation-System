@@ -1,0 +1,41 @@
+table
+{
+	background-color: #1a116b;
+	color: white;
+	font-family: Century Gothic, Arial, Times New Roman;
+	border-radius: 25px;
+	box-shadow: 10px 10px 5px grey;
+	margin: 15% auto 0% auto;
+	padding: 25px 25px 20px 25px;
+}
+
+#uname, #Opass, #Npass, #Conpass
+{
+	border-radius: 25px;
+}
+
+
+#cp
+{
+	border-radius:25px;
+	display: center;
+	font-family: Century Gothic, arial, Times New Roman;
+	font-size: 16px;
+	margin: 15px 50% 0% 50%;
+	color: #1a116b;
+}
+
+#cp:hover
+{
+	background-color: #cd2027;
+	color: white;
+}
+
+footer
+{
+	font-family: Century Gothic, arial, Times New Roman;
+	font-size: 16px;
+	color: #1a116b;
+	text-align: center;
+	margin: 10px;
+}

@@ -1,0 +1,38 @@
+th{
+ background-color:#1a116b;
+ text-align:center;
+ font-size:18px;
+ color: white;
+ font-family: Century Gothic, Arial, Times New Roman;
+ padding: 5px;
+}
+
+#marquee
+{
+background-color:#1a116b;
+ font-size:16px;
+ color: white;
+ font-family: Century Gothic, Arial, Times New Roman;
+ padding: 5px;
+ border-radius: 0px 0px 25px 25px;
+}
+
+#Train
+{
+	border-radius: 25px 0px 0px 25px;
+}
+
+#status
+{
+	border-radius: 0px 25px 25px 0px;
+}
+tr{
+ text-align:center;
+ font-size:16px;
+}
+#cancelTicket{
+ background-color:#cd2027;
+ color:white;
+ border-radius:10px;
+ font-size:18px;
+}

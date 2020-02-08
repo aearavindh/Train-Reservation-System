@@ -1,0 +1,35 @@
+.tdleft{
+ text-align:center; color: white;
+ font-family: Century Gothic, Arial, Times New Roman;
+}
+.tdright{
+ text-align:center; color: white;
+ font-family: Century Gothic, Arial, Times New Roman;
+ font-size:18px;
+}
+td{
+ padding:10px; 
+}
+input{
+ border-radius:5px; color: white;
+ text-align:center;
+}
+#h3
+{
+	font-family: Century Gothic, Arial, Times New Roman;
+	color: white;
+}
+#submit
+{
+	background-color:#cd2027;
+	/* border-radius:6px; */
+	/* border-style:inset; */
+	color:white;
+	/* width:100px;
+	height:20px; */
+	padding: 5px;
+}
+body
+{
+	border-radius: 25px;
+}

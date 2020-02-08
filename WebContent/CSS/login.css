@@ -1,0 +1,121 @@
+body
+{
+	font-family: Century Gothic, Arial, Times New Roman;
+	background-color: white;
+	
+	box-shadow: 10px 10px 5px grey;
+	text-align: center;
+	border-radius: 25px; 
+	/*border-radius: 25px;*/
+	width: 40%;
+	margin: auto;
+}
+
+h1
+{
+	background-color: #1a116b;
+	color: white;
+	box-shadow: 10px 0px 5px grey;
+	font-size: 14px;
+	
+	margin: 10% auto auto auto;
+	
+	border-radius: 25px 25px 0px 0px;
+	
+	text-align: center;
+	padding: 10px;	
+}
+
+footer
+{
+	background-color: #1a116b;
+	color: white;
+	box-shadow: 10px 10px 5px grey;
+	font-size: 14px;
+	
+	margin: auto auto auto auto;
+	
+	border-radius: 0px 0px 25px 25px;
+	
+	text-align: center;
+	padding: 10px;
+}
+
+.body
+{
+	background-color: white;
+	border-style: solid;
+	border-color: #1a116b;
+}
+
+table
+{
+	padding: 10px;
+	margin: 10px;
+}
+
+#captchaBackground
+{
+	border-style: solid;
+	border-color: grey;
+	border-radius: 25px;
+	box-shadow: 10px 10px 5px grey;
+	background-color: grey;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	
+}
+
+#captcha 
+{
+	margin-bottom: 1em;
+	font-size: 50px;
+	letter-spacing: 3px;
+	color: LightBlue;
+}
+
+.center 
+{
+	padding: 10px 100px 10px 100px;
+}
+
+#submit 
+{
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+#textBox 
+{
+	height: 20px;
+	border-radius: 25px;
+}
+		
+.redText 
+{
+	color: #a03146;
+	font-weight: bold;
+}
+		
+.greenText 
+{
+	color: #1a3815;
+	font-weight: bold;
+}
+
+#rh
+{
+	color: yellow;
+	font-weight:bold;
+}
+
+#rh:hover
+{
+	background-color: white;
+	border-radius: 25px;
+	padding: 2px 5px;
+	color: #1a116b;
+}		  
+
